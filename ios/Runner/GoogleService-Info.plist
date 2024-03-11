@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDi7OfVxuSGIPu7nF8i8mM0lDFFJIfB95A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>999695979199</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.aeroplannerApp</string>
+	<key>PROJECT_ID</key>
+	<string>aeroplanner-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aeroplanner-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:999695979199:ios:167fbbe1a82957ea25ec0a</string>
+</dict>
+</plist>

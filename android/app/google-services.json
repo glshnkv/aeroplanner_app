@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999695979199",
+    "project_id": "aeroplanner-app",
+    "storage_bucket": "aeroplanner-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999695979199:android:d1386f2e37e99d5d25ec0a",
+        "android_client_info": {
+          "package_name": "com.example.aeroplanner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerVCgvBz-IHS1g_-T9xDG7X74B8m9A8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
